@@ -1,0 +1,26 @@
+
+
+economizar:
+	(490,00 * 12) - (99,00 * 12)
+
+mensalidade:
+	até 20.000,00 valor mensalidade = 99,00
+
+	20.000,00 até 35.000,00 mens = 129,00
+
+	35.000,00 a 50.000,00 mens = 169,00
+
+	50 á 100 mens = 199,00
+
+	100 á 150 mens = 249,00
+
+	acima de 150 mens = 299,00 
+
+
+até 2 sócios é gratuito
+	não tem acréscimo de valor, no caso seria 99,00
+
+cada sócio agrega 30,00 na mensalidade (a partir do terceiro sócio)
+
+funcionário
+	cada funcionário agregar, 30,00 na mensalidade
